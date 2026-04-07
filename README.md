@@ -35,7 +35,7 @@ Standard LLM chatbot evaluated against ground truth Q&A pairs stored in LangSmit
 | Answer Length | Answer length < 2× actual |
 
 ### Results
-
+Models tested: gpt-4o-mini · gpt-4-turbo · gpt-3.5-turbo (chatbot) 
 | | | |
 |---|---|---|
 | ![a](images/chatbot_metrics/a.png) | ![b](images/chatbot_metrics/b.png) | ![c](images/chatbot_metrics/c.png) |
@@ -59,7 +59,7 @@ Extends the baseline with retrieval — documents are ingested, chunked, and sto
 > LangSmith has no built-in judge — all evaluation logic is custom, using an LLM inside each evaluator.
 
 ### Results
-
+Model tested: · gpt-4o-mini (RAG)
 | | | |
 |---|---|---|
 | ![a](images/rag_metrics/a.png) | ![b](images/rag_metrics/b.png) | ![c](images/rag_metrics/c.png) |
