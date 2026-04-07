@@ -38,8 +38,8 @@ Standard LLM chatbot evaluated against ground truth Q&A pairs stored in LangSmit
 
 | | | |
 |---|---|---|
-| ![a](images/a.png) | ![b](images/b.png) | ![c](images/c.png) |
-| ![d](images/d.png) | ![e](images/e.png) | |
+| ![a](images/chatbot_metrics/a.png) | ![b](images/chatbot_metrics/b.png) | ![c](images/chatbot_metrics/c.png) |
+| ![d](images/chatbot_metrics/d.png) | ![e](images/chatbot_metrics/e.png) | |
 
 ---
 
