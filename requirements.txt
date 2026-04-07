@@ -1,0 +1,12 @@
+python-dotenv
+langsmith
+openai
+langchain
+langchain_community
+langchain_openai
+langchain_core
+langchain_text_splitters
+pandas
+bs4
+tiktoken
+ipykernel  
