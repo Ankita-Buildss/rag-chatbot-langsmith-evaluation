@@ -62,8 +62,8 @@ Extends the baseline with retrieval — documents are ingested, chunked, and sto
 
 | | | |
 |---|---|---|
-| ![a](images/a.png) | ![b](images/b.png) | ![c](images/c.png) |
-| ![d](images/d.png) | ![e](images/e.png) | |
+| ![a](images/rag_metrics/a.png) | ![b](images/rag_metrics/b.png) | ![c](images/rag_metrics/c.png) |
+| ![d](images/rag_metrics/d.png) | ![e](images/rag_metrics/e.png) | |
 
 ---
 
